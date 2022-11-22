@@ -1,1 +1,1 @@
-# ShreepadHangari.github.io
+# curiousprime.github.io
