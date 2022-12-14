@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Moderna
-Template URL: https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/
+Template Name: Personal
+Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
